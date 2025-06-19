@@ -1,0 +1,11 @@
+[nltk_data] Downloading package stopwords to
+[nltk_data]     C:\Users\Acer/nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+Data berhasil disimpan ke tabel MySQL: 'preprocessing'
+Contoh data hasil pembersihan, augmentasi, dan sentimen:
+                                            stemming sentiment
+0  ["baca", "baca", "dalam", "ikn", "ilustrasi", ...   negatif
+1  ["cabang", "dinasti", "dinasti", "dukung", "du...   positif
+2  ["cermin", "identitas", "ikn", "indonesia", "k...   positif
+3  ["bas", "ikn", "kota", "lanjut", "lingkung", "...   positif
+4  ["bahan", "bangun", "hidup", "ikn", "jasa", "j...   negatif
